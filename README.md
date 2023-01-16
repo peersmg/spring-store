@@ -4,4 +4,4 @@ Project to simulate an online store - done as a microservices refresher followin
 
 This project is made up of several Spring Boot microservices:
 - Product service - Uses MongoDB to store the products for sale.
-- Order service
+- Order service - Uses MySQL to store customer orders.
